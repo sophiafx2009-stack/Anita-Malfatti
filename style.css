@@ -22,11 +22,28 @@
 }
 
 
+.cabecalho2{
+    
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: url(https://i.pinimg.com/736x/f0/80/9c/f0809cffba92197e08d1a7d3e9fa232d.jpg);
+    border: double beige;
+    
+}
+
+
+
 
 body{
   
    background-image: url(https://i.pinimg.com/736x/64/a8/c8/64a8c8fa2246724fed5df906fd6e7d9f.jpg);
 }
+
+
+
+
+
 
 .menu{
     margin-top: 5px;
@@ -40,10 +57,33 @@ body{
      border: 2px solid rgba(245, 245, 220, 0.877);
 }
 
+.menu2{
+    margin-top: 5px;
+    font-size: 50px;
+    background-color: #a7380c8e;
+    color: beige;
+    border-radius: 10%;
+    text-decoration: none;
+    margin-left: 595px;
+    padding: 10px;
+     border: 2px solid rgba(245, 245, 220, 0.877);
+}
+
+
+
+
+
 .tituloprincipal{
     color: beige;
 font-size: 100px;
 margin-left: 400px;
+     font-family: 'Cherish', cursive;
+}
+
+.tituloprincipal2{
+    color: rgb(25, 2, 2);
+font-size: 150px;
+margin-left: 550px;
      font-family: 'Cherish', cursive;
 }
 
@@ -59,6 +99,14 @@ margin-left: 400px;
     color: #82001A;
     font-size: 40px;
     margin-left: 390px;
+}
+
+
+.minititulos2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #82001A;
+    font-size: 40px;
+    margin-left: 500px;
 }
 
 .grade-cards{
@@ -110,4 +158,11 @@ font-family: 'Times New Roman', Times, serif;
     margin-left: 90px;
 
 
+        }
+
+
+        img{
+
+           margin-left: 500px;
+            width: 300px;
         }
