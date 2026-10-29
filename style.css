@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherish&family=Pinyon+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherish&family=DM+Serif+Text:ital@0;1&family=Pinyon+Script&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.cabecalho{
+    
+    padding: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #8b1d11;
+    border: double beige;
+    
+   
+
+}
+
+
+
+body{
+  
+   background-image: url(https://i.pinimg.com/736x/64/a8/c8/64a8c8fa2246724fed5df906fd6e7d9f.jpg);
+}
+
+.menu{
+    margin-top: 5px;
+    font-size: 50px;
+    background-color: #a7380c8e;
+    color: beige;
+    border-radius: 10%;
+    text-decoration: none;
+    margin-left: 550px;
+    padding: 10px;
+     border: 2px solid rgba(245, 245, 220, 0.877);
+}
+
+.tituloprincipal{
+    color: beige;
+font-size: 100px;
+margin-left: 400px;
+     font-family: 'Cherish', cursive;
+}
+
+.anitta{
+
+    margin-left: 480px;
+
+    width: 500px;
+}
+
+.minititulos{
+    font-family: 'Times New Roman', Times, serif;
+    color: #82001A;
+    font-size: 40px;
+    margin-left: 390px;
+}
+
+.grade-cards{
+    display: grid;
+    gap: 24px;
+}
+
+.card {
+    padding: 24px;
+    background-color: rgba(245, 245, 177, 0.877);
+    border: 1px solid #8b1d11;
+    border-radius: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+p{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:#822600;
+}
+
+.Anitta{
+      margin-left: 440px;
+
+    width: 300px;
+}
+
+.conteudo {
+    display: flex;
+    align-items: center;
+   
+}
+
+    .depoimento{
+        
+    margin-left: 50px;
+    margin-right: 50px;
+    color:#822600;
+    }
+
+
+        .titulosemnadaarte{
+
+font-family: 'Times New Roman', Times, serif;
+    color: #82001A;
+    font-size: 40px;
+    margin-left: 90px;
+
+
+        }
